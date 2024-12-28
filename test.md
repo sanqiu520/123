@@ -9,6 +9,7 @@
 
 [link1](https://github.com/sanqiu520/123)
 
+图片要把图片放到同一个文件夹里
 ![Image](《巨人的工具》健康.jpg)
 
 
